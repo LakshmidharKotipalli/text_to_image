@@ -1,4 +1,3 @@
-%%writefile app.py
 import streamlit as st
 from diffusers import StableDiffusionXLPipeline
 import torch
